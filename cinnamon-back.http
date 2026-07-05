@@ -1,0 +1,6 @@
+@cinnamon_back_HostAddress = http://localhost:5162
+
+GET {{cinnamon_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
